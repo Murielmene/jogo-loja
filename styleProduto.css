@@ -1,0 +1,28 @@
+header{
+    border: 2px solid black;
+    height: 100px;
+    background-color: gainsboro;
+}
+
+
+nav{
+    color: black;
+    padding-top: 20px;
+    background-color: lightgreen;
+    height: 30px;
+    border: 2px solid black;
+}
+ul, li{
+    display: inline;
+    list-style: none;
+}
+body{
+    border: 2px solid black;
+}
+form{
+    margin-left: 10px;
+    margin-bottom: 5px;
+}
+h2{
+    margin-left: 10px;
+}
